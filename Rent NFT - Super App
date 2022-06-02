@@ -1,0 +1,13 @@
+Rent NFT - Super App
+
+P2P renting protocol
+
+2 actors : lender, renter
+
+# actions 
+lender : 
+renter : 
+
+
+Important : moment du renting -> super app activate
+-> Don't need to come back to the platform to rent everyday : unlock de payment agreement automatically send NFT if not 24 hours of waiting until the slash
